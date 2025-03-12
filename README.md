@@ -7,3 +7,4 @@
    1. Perform data encoding (one-hot encoding, label encoding).
    2.Create new derived columns using existing data (e.g., age from a date of birth).
    3.Group and aggregate data using groupby and pivot_table.
+5. [lab_06].(https://github.com/Shanumukareddy/DATA-MINING/blob/main/lab6(dm).ipynb)
