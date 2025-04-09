@@ -10,7 +10,7 @@
 5. [lab_06].(https://github.com/Shanumukareddy/DATA-MINING/blob/main/lab6(dm).ipynb)
 6. [lab_07].(https://github.com/Shanumukareddy/DATA-MINING/blob/main/lab7(dm).ipynb)
 7. [lab_08].(https://github.com/Shanumukareddy/DATA-MINING/blob/main/lab8(dm).ipynb)
-8. [lab_09].():Task 1: Load and Visualize the Data
+8. [lab_09].(https://github.com/Shanumukareddy/DATA-MINING/blob/main/lab9(dm).ipynb):Task 1: Load and Visualize the Data
               1. Download the dataset: Use Salary_Data.csv (or generate synthetic data).
               2. Load the dataset using pandas.read_csv().
               3. Visualize the relationship between features and target variables using matplotlib.
