@@ -9,3 +9,4 @@
    3.Group and aggregate data using groupby and pivot_table.
 5. [lab_06].(https://github.com/Shanumukareddy/DATA-MINING/blob/main/lab6(dm).ipynb)
 6. [lab_07].(https://github.com/Shanumukareddy/DATA-MINING/blob/main/lab7(dm).ipynb)
+7. [lab_08].()
