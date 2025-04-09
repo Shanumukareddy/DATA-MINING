@@ -26,7 +26,7 @@
               o Mean Squared Error (MSE)
               o R² Score
               3. Plot the polynomial regression curve with original data.
-9. [lab_10].():Task 1: Modify Dataset
+9. [lab_10].(https://github.com/Shanumukareddy/DATA-MINING/blob/main/lab10(dm).ipynb):Task 1: Modify Dataset
                • Change X = iris.data[:, :2] to include different features.
                • See how it affects the decision boundary.
                Task 2: Apply Logistic Regression to Another Dataset
