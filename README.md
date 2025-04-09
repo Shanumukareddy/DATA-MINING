@@ -10,4 +10,20 @@
 5. [lab_06].(https://github.com/Shanumukareddy/DATA-MINING/blob/main/lab6(dm).ipynb)
 6. [lab_07].(https://github.com/Shanumukareddy/DATA-MINING/blob/main/lab7(dm).ipynb)
 7. [lab_08].(https://github.com/Shanumukareddy/DATA-MINING/blob/main/lab8(dm).ipynb)
-8. [lab_09].()
+8. [lab_09].():Task 1: Load and Visualize the Data
+              1. Download the dataset: Use Salary_Data.csv (or generate synthetic data).
+              2. Load the dataset using pandas.read_csv().
+              3. Visualize the relationship between features and target variables using matplotlib.
+              Task 2: Apply Polynomial Regression
+              1. Preprocess the data
+              o Extract the independent (X) and dependent (y) variables.
+              o Reshape X if necessary.
+              2. Convert features to polynomial features using PolynomialFeatures.
+              3. Train a polynomial regression model using LinearRegression.
+              Task 3: Evaluate and Visualize
+              1. Make predictions using the trained model.
+              2. Evaluate model performance using metrics like:
+              o Mean Squared Error (MSE)
+              o R² Score
+              3. Plot the polynomial regression curve with original data.
+
