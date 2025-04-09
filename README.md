@@ -26,4 +26,14 @@
               o Mean Squared Error (MSE)
               o R² Score
               3. Plot the polynomial regression curve with original data.
+9. [lab_10].():Task 1: Modify Dataset
+               • Change X = iris.data[:, :2] to include different features.
+               • See how it affects the decision boundary.
+               Task 2: Apply Logistic Regression to Another Dataset
+               • Use the Titanic dataset or Breast Cancer dataset.
+               • Preprocess the dataset (handle missing values, encode categorical variables).
+               • Train and evaluate a Logistic Regression model.
+               Task 3: Modify Model Parameters
+               • Try changing solver='liblinear' or penalty='l1'.
+               • Observe how the model behaves with different hyperparameters.
 
